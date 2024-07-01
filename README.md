@@ -10,3 +10,6 @@
 * uuid 
 * react-icons 
 * sass
+
+### Önizleme
+![./public/is_takip_toolkit.gif](./public/is_takip_toolkit.gif)

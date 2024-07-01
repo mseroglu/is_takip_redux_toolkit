@@ -1,51 +1,6 @@
 {
   "jobs": [
     {
-      "position": "Marketing Manager",
-      "company": "Microsoft",
-      "location": "Seattle",
-      "status": "Reddedildi",
-      "type": "Yarı Zamanlı",
-      "id": "d7c4d757-4957-488d-a7f2-f8db05aa2c46",
-      "date": 1318607013502
-    },
-    {
-      "position": "Data Scientist",
-      "company": "Microsoft",
-      "location": "Menlo Park",
-      "status": "Devam Ediyor",
-      "type": "Yarı Zamanlı",
-      "id": "ec72d702-ff65-46e4-bc4c-0ee6d3660913",
-      "date": 1715607078538
-    },
-    {
-      "id": "6df79445-7c26-44ae-a84d-58573353b47c",
-      "position": "Data Analyst",
-      "company": "Coca Cola",
-      "location": "İzmir/Bayraklı",
-      "status": "Devam Ediyor",
-      "type": "Yarı Zamanlı",
-      "date": 1715102448129
-    },
-    {
-      "position": "Marketing Manager",
-      "company": "Amazon",
-      "location": "İzmir/Bayraklı",
-      "status": "Mülakat",
-      "type": "Tam Zamanlı",
-      "id": "3ca15fb5-cff8-464d-bb6e-bc244d22edfa",
-      "date": 1715104409300
-    },
-    {
-      "position": "Data Scientist",
-      "company": "Zorro",
-      "location": "Menlo Park",
-      "status": "Mülakat",
-      "type": "Tam Zamanlı",
-      "id": "46b7da48-67af-45c6-9dfe-5d327d24cab8",
-      "date": 1715104431342
-    },
-    {
       "id": "b09d7161-3c79-496c-abe0-6cc5ca0a248a",
       "position": "Data Analyst",
       "company": "Udemig",
@@ -55,31 +10,49 @@
       "date": 1719614072519
     },
     {
-      "id": "11cf8091-2297-4e6d-b417-42ce1ba270a9",
-      "position": "Frontend Developer",
+      "position": "Data Scientist",
       "company": "Amazon",
-      "location": "Seattle",
+      "location": "Menlo Park",
       "status": "Devam Ediyor",
-      "type": "Yarı Zamanlı",
-      "date": 1719615647567
+      "type": "Uzaktan",
+      "id": "cc918b72-b8e7-4277-bec9-0572e2697605",
+      "date": 1719761039886
     },
     {
-      "position": "Data Scientist",
-      "company": "Coca Cola",
-      "location": "Batman",
-      "status": "Mülakat",
-      "type": "Uzaktan",
-      "id": "2d889504-4333-470f-87dc-b895c9a553f2",
-      "date": 1719753435484
+      "position": "Data Analyst",
+      "company": "Amazon",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "edf4f4cb-55f3-45ff-9725-0755c432681d",
+      "date": 1719761228727
     },
     {
       "position": "Backend Developer",
-      "company": "Zorro",
+      "company": "Udemig",
       "location": "Diyarbakır",
       "status": "Devam Ediyor",
-      "type": "Staj",
-      "id": "44ed7482-5504-454a-a110-64d14d6e35d5",
-      "date": 1719757447608
+      "type": "Yarı Zamanlı",
+      "id": "a4af14a3-9cf4-47dc-b7c5-049213376a00",
+      "date": 1719841573581
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Udemig",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "2423ef43-80bc-4e65-9e36-d2a21291fac9",
+      "date": 1719843014585
+    },
+    {
+      "position": "Data Analyst",
+      "company": "Udemig",
+      "location": "Batman",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "id": "44ed9a21-6402-46d7-8ffa-43c026056a3d",
+      "date": 1719843916226
     }
   ]
 }
